@@ -1,4 +1,5 @@
 package com.example.nebula;
 
-public class Circle {
+public class Circle extends Shape{
+
 }
